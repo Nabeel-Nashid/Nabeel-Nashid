@@ -23,10 +23,9 @@
 
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/_nabeel_nashid_/)
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-%234267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.facebook.com/nabeel.nashid.98?mibextid=ZbWKwL)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://twitter.com/anwarjunaidkm)
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/anwarjunaidkm/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:ajvly22@gmail.com)
-[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//919746639178)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/nabeel-nashid-01008926b/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:nabeelnashidnmk@gmail.com)
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//9656346818)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/anwarjunaidkm/)
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/offlyf)
 
